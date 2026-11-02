@@ -1,1 +1,0 @@
-# Astroshot Video Workflow library
