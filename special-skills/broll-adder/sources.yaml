@@ -1,0 +1,57 @@
+# broll-adder sources — searched top to bottom, in this order.
+#
+# kind:
+#   sliceable  -> only the needed seconds are downloaded (YouTube). Codes: Y1, Y2...
+#   full       -> whole file is downloaded, trimmed after if needed. Codes: A1, A2...
+#
+# engine: which search function in scripts/search_sources.py handles it
+#   youtube | archive_org | wikimedia
+#   web  -> no script engine: Claude searches it with WebSearch (see the source's comment); search_sources.py skips it
+#
+# To turn a source off: enabled: false
+# To add one: copy a block, change name/engine/settings, add the engine if new.
+
+sources:
+  - name: YouTube
+    kind: sliceable
+    engine: youtube
+    enabled: true
+    priority: 1
+    max_results: 8
+    max_video_minutes: 40      # skip very long videos (slow to scan)
+
+  - name: Archive.org
+    kind: full
+    engine: archive_org
+    enabled: true
+    priority: 2
+    max_results: 6
+    collections: []            # e.g. ["prelinger"] to limit; empty = all movies
+
+  - name: Wikimedia Commons
+    kind: full
+    engine: wikimedia
+    enabled: true
+    priority: 3
+    max_results: 6
+
+  # Added 2026-10 — free stock video (Pexels license: free to use, no credit needed).
+  # Search: WebSearch with allowed_domains pexels.com ("pexels video <subject>").
+  # Download: https://www.pexels.com/download/video/<id>/  (needs a browser User-Agent; whole file, then trim).
+  # Good for: people using phone/laptop, lifestyle, office, generic moods. Prefer vertical (9:16) clips.
+  - name: Pexels
+    kind: full
+    engine: web
+    enabled: true
+    priority: 4
+    max_results: 6
+
+  # Added 2026-10 — official brand/product channels on YouTube (launch films, ads).
+  # Search: WebSearch with allowed_domains youtube.com ("Introducing <product>", "<brand> official ad").
+  # Best when the line is about a specific product or company; sliceable like YouTube.
+  - name: Official brand channels (YouTube)
+    kind: sliceable
+    engine: web
+    enabled: true
+    priority: 1
+    note: "prefer the company's own channel over reviewers/reaction videos"

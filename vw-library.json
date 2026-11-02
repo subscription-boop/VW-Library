@@ -1,0 +1,1107 @@
+{
+  "format": "vw-library",
+  "version": 1,
+  "created": "2026-11-02T11:51:12.964Z",
+  "app": "Astroshot Video Workflow",
+  "entries": [
+    {
+      "name": "card-chapter-title",
+      "kind": "technique",
+      "row": "| [card-chapter-title](skills/card-chapter-title/SKILL.md) | card | hard cut to full-screen flat colour card; number + title appear word by word with speech; optional accent bar; hard cut back | \"part N\", tip/chapter announcements | 2026-10-20 | src-001 |",
+      "label_fa": "کارت رنگی تمام‌صفحه با شماره و عنوان بخش",
+      "cat": "card",
+      "uses": []
+    },
+    {
+      "name": "card-cta-fade-to-black",
+      "kind": "technique",
+      "row": "| [card-cta-fade-to-black](skills/card-cta-fade-to-black/SKILL.md) | card | final CTA as a stacked lockup behind the walking speaker + brand logo; footage fades to black in ~0.3 s, text and logo stay on black ~1.3 s while the music fades | \"send us a message\", DM/book CTA at the end | 2026-10-28 | src-007 |",
+      "label_fa": "دعوت به اقدام پشت سر گوینده، بعد تصویر سیاه می‌شود و فقط متن و لوگو می‌ماند",
+      "cat": "card",
+      "uses": []
+    },
+    {
+      "name": "card-white-kinetic-lockup",
+      "kind": "technique",
+      "row": "| [card-white-kinetic-lockup](skills/card-white-kinetic-lockup/SKILL.md) | card | white card; small black words build a lockup around one huge heavy red keyword (pink blur → red); offset small follow words | core line of a quote/lesson | 2026-10-22 | src-003 |",
+      "label_fa": "کارت سفید با یک کلمه‌ی قرمزِ خیلی بزرگ",
+      "cat": "card",
+      "uses": []
+    },
+    {
+      "name": "card-white-word-beat",
+      "kind": "technique",
+      "row": "| [card-white-word-beat](skills/card-white-word-beat/SKILL.md) | card | hard cut to white full-screen card with a subtle photographic paper texture (different paper each card); transitional phrase plays one black word at a time (key word in italic serif); hard cut back; 0.5–1.7 s | set-up line before a list, pivot word | 2026-10-21 | src-002 |",
+      "label_fa": "کارت سفید کاغذی، کلمه‌به‌کلمه",
+      "cat": "card",
+      "uses": []
+    },
+    {
+      "name": "cut-beat-broll-montage",
+      "kind": "technique",
+      "row": "| [cut-beat-broll-montage](skills/cut-beat-broll-montage/SKILL.md) | cut | voice stops, music up to full for a ~12 s B-roll proof montage; one shot per beat (~0.65 s @ ~90 BPM), every cut on a kick; hard cuts + blur whips, one spin/echo accent on the drop; voice returns over the last shot | promo/portfolio moment after a big claim | 2026-10-28 | src-007 |",
+      "label_fa": "مونتاژ سریع بی‌رول وسط ویدیو، بدون صدای گوینده، هر کات روی ضرب موزیک",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "cut-listener-reaction-insert",
+      "kind": "technique",
+      "row": "| [cut-listener-reaction-insert](skills/cut-listener-reaction-insert/SKILL.md) | cut | <1 s cutaway to the listener's reaction while the speaker's audio and captions continue | podcast/interview clips with a listener camera | 2026-10-22 | src-003 |",
+      "label_fa": "کات کوتاه به واکنش شنونده",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "cut-multicam-podcast-bookends",
+      "kind": "technique",
+      "row": "| [cut-multicam-podcast-bookends](skills/cut-multicam-podcast-bookends/SKILL.md) | cut | podcast clip from a multi-cam recording: opens and closes on the wide two-shot, one short interviewer shot for his question, guest alternates medium side ↔ close with long holds 4–8.5 s; cuts on phrase starts, continuous audio; fast first ~3 s | podcast/interview clips with 2+ cameras | 2026-10-25 | src-006 |",
+      "label_fa": "پادکست چنددوربینه: شروع و پایان روی شات باز، شات‌های بلند",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "cut-rhythm-phrase-shots",
+      "kind": "technique",
+      "row": "| [cut-rhythm-phrase-shots](skills/cut-rhythm-phrase-shots/SKILL.md) | cut | picture changes on almost every phrase (talk/card/inset/B-roll); shots ~0.5–4 s, avg ~1.5 s; few same-framing jump cuts; B-roll-to-B-roll cuts may fall mid-phrase | talking-head explainer with B-roll, fast but not choppy | 2026-10-21 | src-002 |",
+      "label_fa": "عوض شدن تصویر روی هر عبارت",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "cut-section-header-beat",
+      "kind": "technique",
+      "row": "| [cut-section-header-beat](skills/cut-section-header-beat/SKILL.md) | cut | spoken \"Step N\" isolated as its own ~0.6–0.7 s shot; cut in on the header, cut out right after it | numbered steps/tips | 2026-10-21 | src-002 |",
+      "label_fa": "شات جدا برای «مرحله‌ی N»",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "cut-tight-phrase-joins",
+      "kind": "technique",
+      "row": "| [cut-tight-phrase-joins](skills/cut-tight-phrase-joins/SKILL.md) | cut | pauses between phrases cut to 1–3 frames; cuts inside the gap, next word 0–2 frames after; pause kept only before stressed/final word; speech from frame 1 | dense talking-head delivery at normal speed | 2026-10-21 | src-002 |",
+      "label_fa": "اتصال فشرده‌ی عبارت‌ها بدون مکث",
+      "cat": "cut",
+      "uses": []
+    },
+    {
+      "name": "fx-echo-rgb-trail",
+      "kind": "technique",
+      "row": "| [fx-echo-rgb-trail](skills/fx-echo-rgb-trail/SKILL.md) | fx | stepped semi-transparent echo copies trail a moving subject and grow over ~0.4 s, red/cyan edge fringing; starts on the music drop | music drop on a moving car/object | 2026-10-28 | src-007 |",
+      "label_fa": "ردِ پله‌ای و رنگی پشت سوژه‌ی متحرک روی دراپ موزیک",
+      "cat": "fx",
+      "uses": []
+    },
+    {
+      "name": "grade-bright-airy",
+      "kind": "technique",
+      "row": "| [grade-bright-airy](skills/grade-bright-airy/SKILL.md) | grade | much brighter (about +22 % exposure), lifted blacks, slightly flatter contrast, a touch warm (about +300 K) and 8 % less saturation; light, clean, soft and spacious; speaker footage only | lifestyle, wellness or soft, friendly talking heads in white rooms | 2026-10-24 | – (user-approved grade option D, 2026-10-24) |",
+      "label_fa": "خیلی روشن و سبک",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-cinematic-warm-highlights",
+      "kind": "technique",
+      "row": "| [grade-cinematic-warm-highlights](skills/grade-cinematic-warm-highlights/SKILL.md) | grade | a mild orange-and-teal split: warm (about +800 K) with golden highlights and slightly cool, blue-green shadows, contrast up (S-curve), +5 % saturation; a cinematic, filmic separation between skin and darks; speaker footage only | dramatic, premium or cinematic talking heads and short films | 2026-10-24 | – (user-approved grade option J, 2026-10-24) |",
+      "label_fa": "سینمایی؛ روشنی‌ها گرم، سایه‌ها کمی سرد",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-clean-neutral",
+      "kind": "technique",
+      "row": "| [grade-clean-neutral](skills/grade-clean-neutral/SKILL.md) | grade | neutral white balance (a hair cooler than the source so white walls read truly white), +14 % exposure and a modest S-curve; clean, crisp and true-to-life; speaker footage only | tech, business, explainers and product talk where a clean, honest look fits | 2026-10-24 | – (user-approved grade option I, 2026-10-24) |",
+      "label_fa": "سفیدِ تمیز و طبیعی بدون رنگ اضافه",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-cool-lowkey-spotlight",
+      "kind": "technique",
+      "row": "| [grade-cool-lowkey-spotlight](skills/grade-cool-lowkey-spotlight/SKILL.md) | grade | very low-key: near-black surround, crushed blacks, one hard top/side spot with fast falloff, cool blue shadows (b* ≈ −3), neutral highlights, natural warm skin, muted saturation; mostly the real dark studio, not a filter; speaker footage only, never forced on bright footage | dark podcast/studio footage, premium serious statements | 2026-10-25 | src-006 |",
+      "label_fa": "رنگ تیره و سرد با یک نور از بالا",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-creamy-film",
+      "kind": "technique",
+      "row": "| [grade-creamy-film](skills/grade-creamy-film/SKILL.md) | grade | a soft film look: warm (about +800 K), faded blacks (lifted to ~6 %) and slightly rolled-off whites, low contrast, 15 % less saturation and a light warm tint in the shadows; creamy, nostalgic and gentle; speaker footage only | storytelling, reflective or aesthetic/lifestyle content that should feel like film | 2026-10-24 | – (user-approved grade option F, 2026-10-24) |",
+      "label_fa": "حس فیلم، کرمی و نرم",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-crisp-punchy",
+      "kind": "technique",
+      "row": "| [grade-crisp-punchy](skills/grade-crisp-punchy/SKILL.md) | grade | strong S-curve contrast, +15 % saturation, +10 % exposure and a light warm shift (about +400 K); deeper shadows, brighter highlights, vivid but natural skin; speaker footage only | energetic, direct, high-retention talking heads; sales/hook-heavy content | 2026-10-24 | – (user-approved grade option G, 2026-10-24) |",
+      "label_fa": "کنتراست و رنگ بیشتر، پرانرژی",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-golden-hour",
+      "kind": "technique",
+      "row": "| [grade-golden-hour](skills/grade-golden-hour/SKILL.md) | grade | strongly warm (about +1500 K) like late-afternoon sun: walls turn golden-cream, skin warm and tanned, +10 % exposure, +10 % saturation, gentle S-curve and golden-orange highlights; speaker footage only | cosy, emotional or story moments, sunset feel, warm personal content | 2026-10-24 | – (user-approved grade option E, 2026-10-24) |",
+      "label_fa": "نور طلایی غروب",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-portra-peach",
+      "kind": "technique",
+      "row": "| [grade-portra-peach](skills/grade-portra-peach/SKILL.md) | grade | a warm portrait-film look: about +1000 K, +12 % exposure, soft contrast, peachy-warm highlights and a slight warm lift in the shadows; flattering, glowing skin; speaker footage only | people-focused, personal, friendly content where flattering skin matters | 2026-10-24 | – (user-approved grade option H, 2026-10-24) |",
+      "label_fa": "پوست گرم هلویی، کنتراست نرم",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-soft-warm-natural",
+      "kind": "technique",
+      "row": "| [grade-soft-warm-natural](skills/grade-soft-warm-natural/SKILL.md) | grade | a light, natural warm shift (about +500 K), +6 % exposure, a barely-there S-curve and +3 % saturation; the wall stays almost white with only a hint of warmth, skin looks healthy and natural; speaker footage only | default everyday look for bright daylight talking heads when the source looks a bit cold/grey | 2026-10-24 | – (user-approved grade option C, 2026-10-24) |",
+      "label_fa": "رنگ کمی گرم و طبیعی",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-warm-bright",
+      "kind": "technique",
+      "row": "| [grade-warm-bright](skills/grade-warm-bright/SKILL.md) | grade | clearly warm (about +1000 K), slightly brighter overall with a very soft centre-weighted falloff toward the corners, gentle S-curve with blacks lifted a touch (nothing crushed), slightly richer colour, warm-brown shadows and golden highlights; speaker footage only | a strong, obvious warm look on bright daylight talking heads | 2026-10-24 | – (user-approved grade option B, 2026-10-24) |",
+      "label_fa": "رنگ گرم و روشنِ واضح",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "grade-warm-lowkey-practicals",
+      "kind": "technique",
+      "row": "| [grade-warm-lowkey-practicals](skills/grade-warm-lowkey-practicals/SKILL.md) | grade | low-key: near-black background with warm practical bulbs, soft frontal key; warm neutrals (a/b ≈ +3), yellow highlights, warm-brown shadows, deep blacks, soft highlight shoulder, slightly muted saturation; speaker footage only (never B-roll/graphics) | premium night-studio talking head | 2026-10-22 | src-002 |",
+      "label_fa": "رنگ گرم و تاریک استودیوی شب",
+      "cat": "grade",
+      "uses": []
+    },
+    {
+      "name": "graphic-arc-arrow-from-to",
+      "kind": "technique",
+      "row": "| [graphic-arc-arrow-from-to](skills/graphic-arc-arrow-from-to/SKILL.md) | graphic | two labels left/right at head height; glowing warm arc arrow grows steadily from start toward target, dotted rest of path, glowing dot on target; out on the next cut | \"2026 → 2027\", now → later, start → goal | 2026-10-28 | src-007 |",
+      "label_fa": "فلش کمانی درخشان از «الان» به «بعد» (مثل ۲۰۲۶ ← ۲۰۲۷)",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-brand-logo-on-name",
+      "kind": "technique",
+      "row": "| [graphic-brand-logo-on-name](skills/graphic-brand-logo-on-name/SKILL.md) | graphic | the brand's real logo replaces the chest caption on the spoken brand name: grey/blur + slight shrink → white ~0.3 s, hold, quick fade | brand/company/product name spoken | 2026-10-28 | src-007 |",
+      "label_fa": "لوگوی برند وقتی اسمش گفته می‌شود، جای زیرنویس",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-emoji-icon-under-caption",
+      "kind": "technique",
+      "row": "| [graphic-emoji-icon-under-caption](skills/graphic-emoji-icon-under-caption/SKILL.md) | graphic | flat icon/emoji/flag centred under the caption that names it; rises + un-blurs with the caption line | named country, brand, object, emotion | 2026-10-22 | src-003 |",
+      "label_fa": "آیکون زیر کلمه‌ای که نامش برده شد",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-flicker-icon",
+      "kind": "technique",
+      "row": "| [graphic-flicker-icon](skills/graphic-flicker-icon/SKILL.md) | graphic | thin red outline icon above caption, irregular broken-sign flicker, then holds semi-visible | negative / warning point (bad audio, no signal) | 2026-10-20 | src-001 |",
+      "label_fa": "آیکون قرمز خط‌دار با چشمک خرابی",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-hand-drawn-annotation",
+      "kind": "technique",
+      "row": "| [graphic-hand-drawn-annotation](skills/graphic-hand-drawn-annotation/SKILL.md) | graphic | marker-style strokes that draw themselves on in ~0.25 s: loose red ellipse around the key element, thin black curved connector from a phrase to its object | \"exactly this\", pointing at a number, button, schedule entry | 2026-10-25 | src-005 |",
+      "label_fa": "دایره‌ی قرمز و خط دست‌کشیده که جلوی چشم کشیده می‌شود",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-label-box-blur-in",
+      "kind": "technique",
+      "row": "| [graphic-label-box-blur-in](skills/graphic-label-box-blur-in/SKILL.md) | graphic | semi-opaque rounded colour boxes over frame zones; white blur blooms into colour; label types on L→R, erases R→L | explaining layout zones, ranked options | 2026-10-20 | src-001 |",
+      "label_fa": "باکس‌های رنگی برای توضیح بخش‌های قاب",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-level-meter",
+      "kind": "technique",
+      "row": "| [graphic-level-meter](skills/graphic-level-meter/SKILL.md) | graphic | thin edge bar rising red→yellow→green in steps on \"from this to this\", then falling back | spoken improvement / before-after | 2026-10-20 | src-001 |",
+      "label_fa": "نوار سطح از قرمز تا سبز",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-logo-card-stack-peel",
+      "kind": "technique",
+      "row": "| [graphic-logo-card-stack-peel](skills/graphic-logo-card-stack-peel/SKILL.md) | graphic | stack of tilted logo cards/badges beside the head, all visible from the first name; the front card slides off just before each next name; last fades out; lives inside the zoom | spoken list of famous brands/clients | 2026-10-28 | src-007 |",
+      "label_fa": "دسته کارت لوگوها کنار سر، با هر اسم کارت جلویی کنار می‌رود",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-lower-third-glitch-decode",
+      "kind": "technique",
+      "row": "| [graphic-lower-third-glitch-decode](skills/graphic-lower-third-glitch-decode/SKILL.md) | graphic | lower-left monospace two-line card with a thin red neon bar: torn glitch slices with colour fringing (~4 frames), letters scramble and decode left to right (~0.25 s), glow blooms; slow ~0.8 s fade or out on the cut | guest name + title, show name / \"full conversation on YouTube\" CTA | 2026-10-25 | src-006 |",
+      "label_fa": "کارت اسم پایین صفحه با گلیچ و حروف درهم",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-mindmap-branch-build",
+      "kind": "technique",
+      "row": "| [graphic-mindmap-branch-build](skills/graphic-mindmap-branch-build/SKILL.md) | graphic | white outlined centre box with typed label (keystrokes); one black label box per spoken item pops in (block → stretches → white label) on a curved connector | brainstorm, categories, \"X can be A, B, C…\" | 2026-10-25 | src-005 |",
+      "label_fa": "نقشه‌ی ذهنی که با هر موردِ گفته‌شده یک شاخه می‌گیرد",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-phone-mockup-feed",
+      "kind": "technique",
+      "row": "| [graphic-phone-mockup-feed](skills/graphic-phone-mockup-feed/SKILL.md) | graphic | realistic phone mock-up on a cream gridded canvas with the real app scrolling; hard cut to an extreme close-up, or competitor videos with a view counter counting up fast | naming a tool and what it shows; proof numbers | 2026-10-25 | src-005 |",
+      "label_fa": "ماکاپ گوشی با اپ واقعی و شمارنده‌ی بازدید",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-photo-card-flash-burst",
+      "kind": "technique",
+      "row": "| [graphic-photo-card-flash-burst](skills/graphic-photo-card-flash-burst/SKILL.md) | graphic | tall photo cards flash in the centre over a continuing B-roll shot, a new card every 4 frames, 4–6 cards | detail/material showcase inside a montage | 2026-10-28 | src-007 |",
+      "label_fa": "چند عکس عمودی پشت‌سرهم، هر ۴ فریم یکی، روی یک شات",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-scatter-assemble",
+      "kind": "technique",
+      "row": "| [graphic-scatter-assemble](skills/graphic-scatter-assemble/SKILL.md) | graphic | 10–30 items fly in from scattered positions with motion blur and snap into a grid in ~0.5–0.8 s; selection variant: chosen items collect into a tray, others fade | many items (\"30 days\", \"20 formats\"), \"pick N of these\" | 2026-10-25 | src-005 |",
+      "label_fa": "اجزای پراکنده پرواز می‌کنند و در جدول می‌نشینند",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-step-header-arc-number",
+      "kind": "technique",
+      "row": "| [graphic-step-header-arc-number](skills/graphic-step-header-arc-number/SKILL.md) | graphic | thin arc from the left edge, a dot rides up it carrying a huge italic numeral with black → transparent gradient; step title builds beside it (tiny lead word + bold italic) | numbered steps (\"first…\", \"step two\") | 2026-10-25 | src-005 |",
+      "label_fa": "تیتر مرحله با عدد ایتالیک روی قوس",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-topic-images-above-head",
+      "kind": "technique",
+      "row": "| [graphic-topic-images-above-head](skills/graphic-topic-images-above-head/SKILL.md) | graphic | real picture(s) of what is being talked about above the head (count follows content), optional tight header + tiny titles; blur + small rise in on the topic's cut, swapped on the next cut | naming tools, songs, products, apps, places in a list or recommendation | 2026-10-24 | src-004 |",
+      "label_fa": "عکس موضوع بالای سر گوینده",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-ui-stat-popup",
+      "kind": "technique",
+      "row": "| [graphic-ui-stat-popup](skills/graphic-ui-stat-popup/SKILL.md) | graphic | real app screenshot card (dark, rounded) fades in + rises a few px under the spoken number, ~0.2 s, held to next cut | stated metric with a real screenshot | 2026-10-21 | src-002 |",
+      "label_fa": "اسکرین‌شات اپ زیر عدد گفته‌شده",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "graphic-wall-color-verdict",
+      "kind": "technique",
+      "row": "| [graphic-wall-color-verdict](skills/graphic-wall-color-verdict/SKILL.md) | graphic | the plain wall behind the speaker becomes solid colour on a verdict: green floods out from behind the head with two ripples + small zoom bump (chime), red slams in with flicker + sideways judder (buzz); wall shading kept; person, desk, laptop untouched, chair coloured; holds through the answer, clears on the next statement | green flag / red flag, right / wrong, myth / fact verdicts | 2026-10-25 | – (user's project 2026-10-25-green-red-flag) |",
+      "label_fa": "دیوار پشت سر روی جواب درست سبز و روی جواب غلط قرمز می‌شه، هماهنگ با صدا",
+      "cat": "graphic",
+      "uses": []
+    },
+    {
+      "name": "layout-inset-card-demo",
+      "kind": "technique",
+      "row": "| [layout-inset-card-demo](skills/layout-inset-card-demo/SKILL.md) | layout | hard cut: video becomes a smaller card on flat light dotted background; examples swap inside; captions continue; hard cut back | talking about the video itself, showing several examples | 2026-10-20 | src-001 |",
+      "label_fa": "ویدیو کوچک روی پس‌زمینه‌ی نقطه‌دار",
+      "cat": "layout",
+      "uses": []
+    },
+    {
+      "name": "layout-split-canvas-speaker-card",
+      "kind": "technique",
+      "row": "| [layout-split-canvas-speaker-card](skills/layout-split-canvas-speaker-card/SKILL.md) | layout | light gridded canvas (grey or cream) fills the frame for graphics; speaker in a rounded card at the bottom with his head breaking out above its edge; hard cuts to/from full-screen talking head | explaining a method, steps, framework, tool | 2026-10-25 | src-005 |",
+      "label_fa": "صفحه‌ی وایت‌برد بالا، گوینده در کارت پایین با سرِ بیرون‌زده",
+      "cat": "layout",
+      "uses": []
+    },
+    {
+      "name": "music-bed-drop-entry",
+      "kind": "technique",
+      "row": "| [music-bed-drop-entry](skills/music-bed-drop-entry/SKILL.md) | music | user's track enters on a strong downbeat/drop exactly as the opening SFX ends; one continuous section; EQ'd, −23 LUFS bed with smooth 3 dB ducking (≈9–10 dB under voice); last shot held, short cosine fade after the last word | any video where the user adds music | 2026-10-22 | – (user-approved project practice) |",
+      "label_fa": "ورود موزیک روی دراپ، زیر صدا",
+      "cat": "music",
+      "uses": []
+    },
+    {
+      "name": "sfx-burn-hit-open",
+      "kind": "technique",
+      "row": "| [sfx-burn-hit-open](skills/sfx-burn-hit-open/SKILL.md) | sfx | short loud noise hit with low body (~0.35 s, peak ~0.1 s), ≈ +6 dB over the voice for an instant, on the opening film-burn frames | cold open flash/burn | 2026-10-25 | src-006 |",
+      "label_fa": "ضربه‌ی صوتی روی سوختگی فیلم اول ویدیو",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-click-graphic-hit",
+      "kind": "technique",
+      "row": "| [sfx-click-graphic-hit](skills/sfx-click-graphic-hit/SKILL.md) | sfx | soft dry mouse-type click (often doubled 30–80 ms) on graphic hits and big caps words; ~17–22 dB under the voice | countdown start, board spin, caps keyword, list/grid hits | 2026-10-25 | src-005 |",
+      "label_fa": "کلیک نرم روی ضربه‌های گرافیکی",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-correct-answer-chime",
+      "kind": "technique",
+      "row": "| [sfx-correct-answer-chime](skills/sfx-correct-answer-chime/SKILL.md) | sfx | bright two-note rising \"ding-ding\" chime with ringing tail on a correct answer or success; ~12–15 dB under the voice | right way, correct option, ✅ tick, result shown | 2026-10-25 | – (user-supplied sound) |",
+      "label_fa": "زنگ دوتایی روشن برای جواب درست یا موفقیت",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-error-buzz-low",
+      "kind": "technique",
+      "row": "| [sfx-error-buzz-low](skills/sfx-error-buzz-low/SKILL.md) | sfx | low buzzy game-show \"wrong\" tone, ~0.5 s body, ~1 s total, on the wrong statement; ~8–10 dB under the voice | mistake, myth, \"don't do this\", wrong option | 2026-10-25 | – (user-supplied sound) |",
+      "label_fa": "صدای بوق بم «اشتباه» روی یک اشتباه یا باور غلط",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-glitch-data-decode",
+      "kind": "technique",
+      "row": "| [sfx-glitch-data-decode](skills/sfx-glitch-data-decode/SKILL.md) | sfx | ~0.6 s digital glitch/data chatter with steady high tones (~8.5/11/16.5 kHz) covering a graphic's glitch-in + text decode; ≈ 14–16 dB under the voice | glitch/decode lower thirds, scramble text reveals | 2026-10-25 | src-006 |",
+      "label_fa": "صدای دیجیتال گلیچ روی ورود کارت اسم",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-keyboard-typing-captions",
+      "kind": "technique",
+      "row": "| [sfx-keyboard-typing-captions](skills/sfx-keyboard-typing-captions/SKILL.md) | sfx | one dry keystroke on every appearing word of kinetic blocks and text cards; 3–4-key burst on the card keyword; plain phrase captions stay silent | word-by-word kinetic captions, text cards | 2026-10-24 | src-003 |",
+      "label_fa": "صدای کیبورد روی هر کلمه‌ی متن",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-noise-burst-flash",
+      "kind": "technique",
+      "row": "| [sfx-noise-burst-flash](skills/sfx-noise-burst-flash/SKILL.md) | sfx | ~0.2 s broadband static/air burst with a click on the brightest frame of a light flash | light-leak / negative flash in a speech gap | 2026-10-24 | src-003 |",
+      "label_fa": "صدای نویز کوتاه روی فلش نور",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-shimmer-tone",
+      "kind": "technique",
+      "row": "| [sfx-shimmer-tone](skills/sfx-shimmer-tone/SKILL.md) | sfx | bright sustained shimmer/ding (steady ~4.2 + 9.5 kHz tones) ~0.7–0.9 s on rare reveals; short ~6.8 kHz ding for a small settle; ~20 dB under the voice | later step header, \"pick N\" selection, reward moments | 2026-10-25 | src-005 |",
+      "label_fa": "صدای درخشش/دینگ روی لحظه‌های خاص",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-whoosh-main-start",
+      "kind": "technique",
+      "row": "| [sfx-whoosh-main-start](skills/sfx-whoosh-main-start/SKILL.md) | sfx | one soft short airy whoosh ending exactly on the cut into the main content; quiet, no low end | entry from hook/set-up into first step | 2026-10-21 | src-002 |",
+      "label_fa": "ووش نرم ورود به محتوای اصلی",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-whoosh-soft-transition",
+      "kind": "technique",
+      "row": "| [sfx-whoosh-soft-transition](skills/sfx-whoosh-soft-transition/SKILL.md) | sfx | soft low \"hoof\" air whoosh (~0.2–0.45 s, no bright top) peaking on a fast transition cut | whip pans, scale-through exits | 2026-10-24 | src-003 |",
+      "label_fa": "ووش بم و نرم روی ترنزیشن سریع",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-whoosh-swell-scene-in",
+      "kind": "technique",
+      "row": "| [sfx-whoosh-swell-scene-in](skills/sfx-whoosh-swell-scene-in/SKILL.md) | sfx | soft airy swell starting on the cut into a full-canvas scene or big assemble, peaking 0.1–0.3 s after, ~0.6–0.8 s; ~10–15 dB under the voice | entering a proof/demo scene, grid flying in, lead-magnet reveal | 2026-10-25 | src-005 |",
+      "label_fa": "ووش نرم ورود به صحنه‌ی جدید، اوج بعد از کات",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "sfx-wrong-double-buzz",
+      "kind": "technique",
+      "row": "| [sfx-wrong-double-buzz](skills/sfx-wrong-double-buzz/SKILL.md) | sfx | quiz-show \"eh-eh\" double buzzer, two short harsh pulses ~0.3 s, on a wrong/rejected item; ~10–12 dB under the voice | wrong answer, crossed-out option, ❌ mark, fast lists | 2026-10-25 | – (user-supplied sound) |",
+      "label_fa": "بوق دوتایی مسابقه‌ای برای جواب غلط",
+      "cat": "sfx",
+      "uses": []
+    },
+    {
+      "name": "text-blur-fade-letters-swell",
+      "kind": "technique",
+      "row": "| [text-blur-fade-letters-swell](skills/text-blur-fade-letters-swell/SKILL.md) | text | letters grow one by one (~0.07 s apart) from soft blurred dots into sharp glyphs under one noise swell; reverse blur-out exit, silent | one/two-word calm focus-in titles | 2026-11-01 | src-008 |",
+      "label_fa": "حروف از نقطه‌ی تار یکی‌یکی واضح می‌شوند، با ویژ نرم",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-blur-reveal-random-shimmer",
+      "kind": "technique",
+      "row": "| [text-blur-reveal-random-shimmer](skills/text-blur-reveal-random-shimmer/SKILL.md) | text | letters appear in random order out of soft blur (~0.45 s) with one high shimmer sweep; random blur-out exit, silent | dreamy/premium reveal, section end | 2026-11-01 | src-008 |",
+      "label_fa": "حروف به ترتیب تصادفی از تاری بیرون می‌آیند، با شیمر",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-blur-reveal-words-ping",
+      "kind": "technique",
+      "row": "| [text-blur-reveal-words-ping](skills/text-blur-reveal-words-ping/SKILL.md) | text | words come out of heavy defocus one at a time (~0.21 s apart, ~0.3 s each), a bell ping just before each word is sharp; reverse blur-out, silent | 2–4 word premium phrases | 2026-11-01 | src-008 |",
+      "label_fa": "کلمه‌ها یکی‌یکی از تاری شدید واضح می‌شوند، با پینگ زنگ‌مانند",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-bouncy-reveal-boing",
+      "kind": "technique",
+      "row": "| [text-bouncy-reveal-boing](skills/text-bouncy-reveal-boing/SKILL.md) | text | letters pop from tiny dots with a springy rising wave and overshoot (~0.6 s), one loud falling boing on the wave peak; reverse shrink exit, silent | fun/energetic titles, punchlines | 2026-11-01 | src-008 |",
+      "label_fa": "حروف فنری با موج و اوج ظاهر می‌شوند، با صدای بوئینگ",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-canvas-headline-build",
+      "kind": "technique",
+      "row": "| [text-canvas-headline-build](skills/text-canvas-headline-build/SKILL.md) | text | black heavy sans headline lockup on a light canvas, word by word on speech: light grey + blur + offset → solid black in ~3 frames; one huge key word, small words tucked beside it | section title/promise on a graphics canvas | 2026-10-25 | src-005 |",
+      "label_fa": "تیتر مشکی کلمه‌به‌کلمه روی صفحه‌ی روشن",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-caps-keyword-stack",
+      "kind": "technique",
+      "row": "| [text-caps-keyword-stack](skills/text-caps-keyword-stack/SKILL.md) | text | on full-screen shots the key concept replaces the chest caption as big heavy white uppercase (≈ 2.5–3×), second word stacks under it on its spoken word; click on each word | named concept, the answer, CTA keyword | 2026-10-25 | src-005 |",
+      "label_fa": "مفهوم کلیدی با حروف بزرگ، کلمه‌ی دوم زیرش",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-caption-emphasis-tiers",
+      "kind": "technique",
+      "row": "| [text-caption-emphasis-tiers](skills/text-caption-emphasis-tiers/SKILL.md) | text | on top of small chest captions: stressed words bigger bold sans, key numbers/concepts larger italic serif; hard swaps | stressed word, number, concept, final word | 2026-10-21 | src-002 |",
+      "label_fa": "کلمه‌های مهم درشت‌تر و سریف",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-caption-pill-grey",
+      "kind": "technique",
+      "row": "| [text-caption-pill-grey](skills/text-caption-pill-grey/SKILL.md) | text | one word/short phrase in a semi-transparent grey rounded pill with white bold text, centred between graphic and speaker card; hard swaps | speech while the graphics canvas is on | 2026-10-25 | src-005 |",
+      "label_fa": "زیرنویس داخل کپسول خاکستری روی صفحه‌ی گرافیکی",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-countdown-on-canvas",
+      "kind": "technique",
+      "row": "| [text-countdown-on-canvas](skills/text-countdown-on-canvas/SKILL.md) | text | spoken \"3, 2, 1, GO\" as one huge centred black numeral at a time, grey → black on each word, ~0.25 s apart | speaker counts down before the first step | 2026-10-25 | src-005 |",
+      "label_fa": "شمارش ۳، ۲، ۱، GO وسط صفحه",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-cta-typewriter-cursor",
+      "kind": "technique",
+      "row": "| [text-cta-typewriter-cursor](skills/text-cta-typewriter-cursor/SKILL.md) | text | tiny uppercase lead line + huge condensed keyword in quotes typed letter by letter (~15 chars/s) with a tall cursor that keeps blinking; held to the end | \"comment the word X\" call to action | 2026-10-24 | src-004 |",
+      "label_fa": "CTA تایپی با مکان‌نمای چشمک‌زن",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-flicker-in",
+      "kind": "technique",
+      "row": "| [text-flicker-in](skills/text-flicker-in/SKILL.md) | text | key word enters with irregular on/off flicker ~0.2 s then holds | pivot word, final word | 2026-10-21 | src-002 |",
+      "label_fa": "ورود کلمه با چشمک",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-flicker-in-letters-ticks",
+      "kind": "technique",
+      "row": "| [text-flicker-in-letters-ticks](skills/text-flicker-in-letters-ticks/SKILL.md) | text | letters switch on/off at random frame by frame for ~0.4 s then lock, burst of 6 bright ticks ~0.06 s apart; ~0.2 s flicker-off exit, silent | neon/techy/glitch one-line titles | 2026-11-01 | src-008 |",
+      "label_fa": "حروف تصادفی چشمک می‌زنند و جا می‌افتند، با تیک‌های پشت‌سرهم",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-key-phrase-stacked-lockup",
+      "kind": "technique",
+      "row": "| [text-key-phrase-stacked-lockup](skills/text-key-phrase-stacked-lockup/SKILL.md) | text | key phrase as a stacked white lockup (small line over huge heavy line), word by word grey/blur → white with slight tilt/scale settle, often behind the speaker's head; line swap; grey fade exit | hook addressee, promise, insight line, CTA | 2026-10-28 | src-007 |",
+      "label_fa": "جمله‌ی کلیدی به‌صورت بلوک دوخطی کوچک و خیلی بزرگ، کلمه‌به‌کلمه، پشت سر گوینده",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-keyword-blur-backdrop",
+      "kind": "technique",
+      "row": "| [text-keyword-blur-backdrop](skills/text-keyword-blur-backdrop/SKILL.md) | text | huge heavy uppercase keyword blurs in, holds, then stays blurred/translucent behind the next small caption | topic phrase of the hook | 2026-10-22 | src-003 |",
+      "label_fa": "کلمه‌ی کلیدی بزرگ و محو در پس‌زمینه",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-kinetic-stack-mixed-size",
+      "kind": "technique",
+      "row": "| [text-kinetic-stack-mixed-size](skills/text-kinetic-stack-mixed-size/SKILL.md) | text | caption blocks in negative space: small + 2x big stressed words stacked/offset; grey/blur → white per word; block exits together | podcast/interview/quote clips | 2026-10-22 | src-003 |",
+      "label_fa": "زیرنویس پله‌ای با کلمه‌های بزرگ و کوچک",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-neon-glow-word",
+      "kind": "technique",
+      "row": "| [text-neon-glow-word](skills/text-neon-glow-word/SKILL.md) | text | one payoff word in neon colour (≈ #58FB11) heavy caps with outer glow under the caption; flicker entrance | goal/payoff word | 2026-10-22 | src-003 |",
+      "label_fa": "یک کلمه‌ی نئونی درخشان",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-neon-serif-keyword",
+      "kind": "technique",
+      "row": "| [text-neon-serif-keyword](skills/text-neon-serif-keyword/SKILL.md) | text | the key word(s) of a sentence in a heavy italic serif in one strong main colour (red in the reference) with a neon glow - always, on dark and bright footage, hard pop on the spoken word; inline at the end of the caption, big alone over the chest, or alone on a short question shot | payoff/contrast word, one-word question | 2026-10-25 | src-006 |",
+      "label_fa": "کلمه‌ی کلیدی سریف ایتالیک رنگی و درخشان",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-phrase-build-blur-rise",
+      "kind": "technique",
+      "row": "| [text-phrase-build-blur-rise](skills/text-phrase-build-blur-rise/SKILL.md) | text | small white heavy phrase captions built word by word (grey/blur → white); line rises in with blur | continuous talking-head speech | 2026-10-22 | src-003 |",
+      "label_fa": "زیرنویس عبارتی که کلمه‌به‌کلمه ساخته می‌شود",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-phrase-build-glow-pop",
+      "kind": "technique",
+      "row": "| [text-phrase-build-glow-pop](skills/text-phrase-build-glow-pop/SKILL.md) | text | one centred caption line laid out for the whole phrase; words pop in hard left to right on their onsets; medium sans, sentence case, white with soft glow (shadow on bright footage); hard swap per phrase | continuous speech in podcast/interview shots | 2026-10-25 | src-006 |",
+      "label_fa": "زیرنویس عبارتی سفید درخشان، کلمه‌به‌کلمه",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-serif-sans-mixed-line",
+      "kind": "technique",
+      "row": "| [text-serif-sans-mixed-line](skills/text-serif-sans-mixed-line/SKILL.md) | text | editorial stacked line mixing small italic serif words with bold black sans key words, built word by word grey → black, beside a product/proof visual | explaining what a shown screen proves | 2026-10-25 | src-005 |",
+      "label_fa": "تیتر ترکیبی سریف ایتالیک و سنس بولد",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-single-word-captions",
+      "kind": "technique",
+      "row": "| [text-single-word-captions](skills/text-single-word-captions/SKILL.md) | text | one word at a time, big heavy tight white sans in top third, hard swaps, key words in highlight yellow | continuous speech in talking head | 2026-10-20 | src-001 |",
+      "label_fa": "زیرنویس تک‌کلمه‌ای بزرگ بالای قاب",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-single-word-captions-chest",
+      "kind": "technique",
+      "row": "| [text-single-word-captions-chest](skills/text-single-word-captions-chest/SKILL.md) | text | one word at a time, small heavy white sans centred on the chest below the face, hard swaps | title holds the top; calmer stretch | 2026-10-20 | src-001 |",
+      "label_fa": "زیرنویس تک‌کلمه‌ای کوچک روی سینه",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-slide-left-words-click",
+      "kind": "technique",
+      "row": "| [text-slide-left-words-click](skills/text-slide-left-words-click/SKILL.md) | text | words enter one by one (~0.17 s) from the end of the previous word, sliding ~40 px right with fade, a very short bright tick per word; reverse slide-back exit, silent | short punchy 2–4 word titles | 2026-11-01 | src-008 |",
+      "label_fa": "کلمه‌ها یکی‌یکی از چپ به راست سر می‌خورند، با تیک تیز",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-slide-up-words-click",
+      "kind": "technique",
+      "row": "| [text-slide-up-words-click](skills/text-slide-up-words-click/SKILL.md) | text | words enter one by one (~0.25 s) rising ~40–50 px with fade, a dry ~2.3 kHz tick per word; reverse drop+fade exit, silent | title/promise lines of 2–4 words | 2026-11-01 | src-008 |",
+      "label_fa": "کلمه‌ها یکی‌یکی از پایین بالا می‌آیند، با تیک خشک",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-spaced-words-neon-lockup",
+      "kind": "technique",
+      "row": "| [text-spaced-words-neon-lockup](skills/text-spaced-words-neon-lockup/SKILL.md) | text | wide-shot typographic lockup: small white words pop at fixed, widely spread slots across a row, the key words land under/over them as a big italic serif line in the main colour; optional second small row; out on the cut | first/last sentence on a wide shot, one strong sentence with a key word | 2026-10-25 | src-006 |",
+      "label_fa": "کلمه‌های کوچک پراکنده با کلمه‌ی بزرگ رنگی زیرشان",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-step-label-serif",
+      "kind": "technique",
+      "row": "| [text-step-label-serif](skills/text-step-label-serif/SKILL.md) | text | \"Step N\" large italic serif over the chest, fades in ~0.2 s on the section cut, holds ~0.6 s | step/tip/number announcements | 2026-10-21 | src-002 |",
+      "label_fa": "«مرحله‌ی N» با فونت سریف ایتالیک",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "text-word-as-specimen",
+      "kind": "technique",
+      "row": "| [text-word-as-specimen](skills/text-word-as-specimen/SKILL.md) | text | named font/style word rendered in that very style, highlight colour, same hard-swap captions | listing fonts, styles, looks | 2026-10-20 | src-001 |",
+      "label_fa": "نام فونت با همان فونت نوشته می‌شود",
+      "cat": "text",
+      "uses": []
+    },
+    {
+      "name": "title-rank-number-pixel-breakup",
+      "kind": "technique",
+      "row": "| [title-rank-number-pixel-breakup](skills/title-rank-number-pixel-breakup/SKILL.md) | title | small \"NO.\" beside the head → quick dip to black → giant numeral over a B-roll scene with slow pull-out → pixel-block breakup crossing the cut | \"number one\", rank/big-number claim launching a montage | 2026-10-28 | src-007 |",
+      "label_fa": "«شماره ۱»: سیاهی کوتاه، عدد بزرگ روی شات شهر، خرد شدن پیکسلی",
+      "cat": "title",
+      "uses": []
+    },
+    {
+      "name": "title-small-row-over-condensed-caps",
+      "kind": "technique",
+      "row": "| [title-small-row-over-condensed-caps](skills/title-small-row-over-condensed-caps/SKILL.md) | title | small title-case words justified across the width of a huge ultra-condensed white uppercase line below; small words one by one, big words grey/blur → white; from frame 1, gone on the first cut | video opening with a short promise | 2026-10-24 | src-004 |",
+      "label_fa": "تیتر پوستری با حروف فشرده‌ی بزرگ",
+      "cat": "title",
+      "uses": []
+    },
+    {
+      "name": "title-stacked-hook",
+      "kind": "technique",
+      "row": "| [title-stacked-hook](skills/title-stacked-hook/SKILL.md) | title | two stacked lines from frame 1: white line letters fade in staggered, bigger yellow key word fades grey→yellow; exits letter by letter R→L | video opening with a 2–3 word topic | 2026-10-20 | src-001 |",
+      "label_fa": "تیتر دوخطی هوک از فریم اول",
+      "cat": "title",
+      "uses": []
+    },
+    {
+      "name": "title-word-behind-subject-rise",
+      "kind": "technique",
+      "row": "| [title-word-behind-subject-rise](skills/title-word-behind-subject-rise/SKILL.md) | title | giant white hook word behind the speaker's head (subject matte) rises to the top with motion blur, holds, fades | greeting / one-word hook | 2026-10-22 | src-003 |",
+      "label_fa": "کلمه‌ی بزرگ پشت سر گوینده",
+      "cat": "title",
+      "uses": []
+    },
+    {
+      "name": "transition-blur-bridge",
+      "kind": "technique",
+      "row": "| [transition-blur-bridge](skills/transition-blur-bridge/SKILL.md) | transition | cut hidden in full defocus (last frame of A + ~8 frames of B), then instant snap to sharp | clarity/focus line, thought reset | 2026-10-21 | src-002 |",
+      "label_fa": "کات پنهان در فوکوس محو",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-board-rotate-reveal",
+      "kind": "technique",
+      "row": "| [transition-board-rotate-reveal](skills/transition-board-rotate-reveal/SKILL.md) | transition | whole board (grid + labels) rotates ~90° as one object: fast motion-blurred turn then soft settle, revealing the next axis label on top | switching between two dimensions of a framework | 2026-10-25 | src-005 |",
+      "label_fa": "چرخش ۹۰ درجه‌ی کل تخته برای بُعد دوم",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-fade-to-black",
+      "kind": "technique",
+      "row": "| [transition-fade-to-black](skills/transition-fade-to-black/SKILL.md) | transition | section ends: ~1.5 s fade to black with music only, ~0.6 s black hold, hard cut back to the presenter (dry) | end of an embedded example/story | 2026-10-22 | src-003 |",
+      "label_fa": "فید به سیاه در پایان بخش",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-film-burn-open",
+      "kind": "technique",
+      "row": "| [transition-film-burn-open](skills/transition-film-burn-open/SKILL.md) | transition | 3 frames of film burn at frame 0: saturated orange/red/yellow bands with hard diagonal edges and dust specks over the opening shot, then a clean cut; with a burn-hit sound | cold open of a video | 2026-10-25 | src-006 |",
+      "label_fa": "سوختگی فیلم سه‌فریمی در شروع ویدیو",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-glow-flicker-streak",
+      "kind": "technique",
+      "row": "| [transition-glow-flicker-streak](skills/transition-glow-flicker-streak/SKILL.md) | transition | ~10-frame flicker of cool milky white glow pulses with a thin horizontal light streak; cut in the middle | take change inside a hook | 2026-10-28 | src-007 |",
+      "label_fa": "چشمک نور سفید سرد با خط نور افقی روی کات",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-light-leak-flash",
+      "kind": "technique",
+      "row": "| [transition-light-leak-flash](skills/transition-light-leak-flash/SKILL.md) | transition | 2-4 frame warm light leak/overexposure with thin black scribble lines, tinted recovery; hides a jump cut | after a payoff word, on a jump cut | 2026-10-22 | src-003 |",
+      "label_fa": "فلش نور گرم روی جامپ‌کات",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-motion-blur-whip",
+      "kind": "technique",
+      "row": "| [transition-motion-blur-whip](skills/transition-motion-blur-whip/SKILL.md) | transition | heavy directional (any direction/rotational) motion blur across the cut, ~2–3 frames out + 3–4 in, incoming settles from a slight tilt; on the beat | shot changes in a beat-cut B-roll montage | 2026-10-28 | src-007 |",
+      "label_fa": "ویپ با تاری حرکتی در هر جهت، شات بعدی کج وارد و صاف می‌شود",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-negative-flash",
+      "kind": "technique",
+      "row": "| [transition-negative-flash](skills/transition-negative-flash/SKILL.md) | transition | ~0.2 s negative/solarize-like flip (darks bright warm, blues pale pink), near-white peak, magenta/teal revert | accent after a payoff word | 2026-10-22 | src-003 |",
+      "label_fa": "فلش نگاتیو کوتاه",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-spin-blur-drop",
+      "kind": "technique",
+      "row": "| [transition-spin-blur-drop](skills/transition-spin-blur-drop/SKILL.md) | transition | outgoing shot spins with rotational blur and darkens to near-black (~6 frames), incoming spins in and locks sharp in ~3 frames | the biggest music drop of a montage, once | 2026-10-28 | src-007 |",
+      "label_fa": "چرخش و تاری تا تاریکی و برگشت چرخشی، روی دراپ موزیک",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-whip-pan",
+      "kind": "technique",
+      "row": "| [transition-whip-pan](skills/transition-whip-pan/SKILL.md) | transition | horizontal motion-blur smear across the cut (~2 frames out, 1 in), snap sharp | change of location/source | 2026-10-22 | src-003 |",
+      "label_fa": "ویپ‌پن افقی با موشن‌بلر",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-white-flash-cut",
+      "kind": "technique",
+      "row": "| [transition-white-flash-cut](skills/transition-white-flash-cut/SKILL.md) | transition | one clean neutral white bloom peaking on the cut, ~1–2 frames up, ~4 frames recovery | return from a montage to the speaker on a beat | 2026-10-28 | src-007 |",
+      "label_fa": "فلش سفید تمیز روی کات، برای برگشت به گوینده",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "transition-word-scale-through",
+      "kind": "technique",
+      "row": "| [transition-word-scale-through](skills/transition-word-scale-through/SKILL.md) | transition | card keyword jumps ~3x (overflowing), holds drifting ~0.6 s, smears sideways into a whip cut | leaving a text card on its strongest line | 2026-10-22 | src-003 |",
+      "label_fa": "کلمه بزرگ می‌شود و با ویپ خارج",
+      "cat": "transition",
+      "uses": []
+    },
+    {
+      "name": "zoom-cut-ease-out",
+      "kind": "technique",
+      "row": "| [zoom-cut-ease-out](skills/zoom-cut-ease-out/SKILL.md) | zoom | cut lands ~1.25–1.3x tight, then eases out to 1.0x: fast start, soft settle ~1.5–2.3 s, no overshoot | hook, section start, closing line | 2026-10-21 | src-002 |",
+      "label_fa": "کات نزدیک و باز شدن نرم",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-cut-in-tight-pull-reveal",
+      "kind": "technique",
+      "row": "| [zoom-cut-in-tight-pull-reveal](skills/zoom-cut-in-tight-pull-reveal/SKILL.md) | zoom | cut lands ~1.7x tight, holds ~0.45 s, then one S-curve pull-out (~0.6 s) to a wide that reveals the location; lockup lands in the new space | new section/location, promise sentence | 2026-10-28 | src-007 |",
+      "label_fa": "کات خیلی نزدیک، مکث، بعد عقب‌کشیدن سریع و دیده شدن لوکیشن",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-open-fast-pullout-blur",
+      "kind": "technique",
+      "row": "| [zoom-open-fast-pullout-blur](skills/zoom-open-fast-pullout-blur/SKILL.md) | zoom | frame 1 ~1.3x tight, snaps out to normal in ~0.2 s with motion blur, no overshoot | aggressive high-energy opening | 2026-10-28 | src-007 |",
+      "label_fa": "شروع ویدیو خیلی نزدیک و عقب‌کشیدن خیلی سریع با تاری حرکتی",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-open-settle-out",
+      "kind": "technique",
+      "row": "| [zoom-open-settle-out](skills/zoom-open-settle-out/SKILL.md) | zoom | opening wide lands ~1.15–1.2× tight right after the opening burn and eases out to 1.0 in ~0.6–0.8 s (fast start, soft settle, no overshoot), then holds | first shot after an opening flash/burn | 2026-10-25 | src-006 |",
+      "label_fa": "شات اول نزدیک شروع می‌شود و نرم باز می‌شود",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-push-hold-release",
+      "kind": "technique",
+      "row": "| [zoom-push-hold-release](skills/zoom-push-hold-release/SKILL.md) | zoom | smooth S-curve push-in ~1.15–1.6x on a key phrase (~0.4–0.55 s), hold for the phrase, S-curve release back; captions/graphics zoom with it; stepped variant on two words | key phrases inside long static takes | 2026-10-28 | src-007 |",
+      "label_fa": "زوم نرم روی جمله‌ی مهم، نگه داشتن، و برگشت نرم",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-push-in-overshoot",
+      "kind": "technique",
+      "row": "| [zoom-push-in-overshoot](skills/zoom-push-in-overshoot/SKILL.md) | zoom | opening push-in ≈1.35x in 0.3 s with small overshoot, settles ≈1.28x | video opening / hook | 2026-10-22 | src-003 |",
+      "label_fa": "پوش‌این سریع با کمی رد شدن",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "zoom-slow-creep-every-shot",
+      "kind": "technique",
+      "row": "| [zoom-slow-creep-every-shot](skills/zoom-slow-creep-every-shot/SKILL.md) | zoom | every shot slowly pushes in from its first frame to the cut (≈ 2–2.2 %/s, linear, soft start, no end ease); resets on each cut | long static podcast/interview shots | 2026-10-25 | src-006 |",
+      "label_fa": "زوم خیلی آرام روی همه‌ی شات‌ها",
+      "cat": "zoom",
+      "uses": []
+    },
+    {
+      "name": "template-big-words-flat-color-motion",
+      "kind": "template",
+      "row": "| [template-big-words-flat-color-motion](skills/template-big-words-flat-color-motion/SKILL.md) | numbered-tips talking head: big one-word captions, flat full-screen chapter cards, one small motion graphic per tip, hard cuts, no zooms, music bed | title-stacked-hook, graphic-level-meter, text-single-word-captions, text-single-word-captions-chest, card-chapter-title, graphic-label-box-blur-in, layout-inset-card-demo, text-word-as-specimen, graphic-flicker-icon | 2026-10-20 | src-001 |",
+      "label_fa": "نکته‌های شماره‌دار: زیرنویس تک‌کلمه‌ای بزرگ، کارت‌های رنگی تخت، یک موشن‌گرافیک کوچک برای هر نکته، کات خشک، بدون زوم.",
+      "cat": "template",
+      "uses": [
+        "title-stacked-hook",
+        "graphic-level-meter",
+        "text-single-word-captions",
+        "text-single-word-captions-chest",
+        "card-chapter-title",
+        "graphic-label-box-blur-in",
+        "layout-inset-card-demo",
+        "text-word-as-specimen",
+        "graphic-flicker-icon"
+      ]
+    },
+    {
+      "name": "template-full-back-color-green-red-flag-sfx",
+      "kind": "template",
+      "row": "| [template-full-back-color-green-red-flag-sfx](skills/template-full-back-color-green-red-flag-sfx/SKILL.md) | green flag / red flag verdict game: statement on the neutral wall, ~0.4 s pause, then the whole wall turns green with a chime or red with an error buzz, big GREEN / FLAG caps on the chest, single-word chest captions, silent colour preview on the intro question, no music | graphic-wall-color-verdict, sfx-correct-answer-chime, sfx-error-buzz-low, text-single-word-captions-chest, text-caps-keyword-stack, grade-soft-warm-natural | 2026-10-25 | – (user's project 2026-10-25-green-red-flag) |",
+      "label_fa": "گرین فلگ / رد فلگ: دیوار پشت سر روی جواب درست سبز با صدای «دینگ» و روی جواب غلط قرمز با صدای ارور، کلمه‌ی بزرگ GREEN / FLAG روی سینه، زیرنویس تک‌کلمه‌ای، بدون موزیک.",
+      "cat": "template",
+      "uses": [
+        "graphic-wall-color-verdict",
+        "sfx-correct-answer-chime",
+        "sfx-error-buzz-low",
+        "text-single-word-captions-chest",
+        "text-caps-keyword-stack",
+        "grade-soft-warm-natural"
+      ]
+    },
+    {
+      "name": "template-impressive-intro-fast-aggressive",
+      "kind": "template",
+      "row": "| [template-impressive-intro-fast-aggressive](skills/template-impressive-intro-fast-aggressive/SKILL.md) | fast, aggressive, impressive brand/self intro on location: snap-out hook with lockup behind the head, long takes alive with push-hold-release zooms and stacked key-phrase lockups, brand logo + famous-logo stack, number title into a voice-free beat-cut montage (whips, echo + spin on the drop), white flash back, CTA on black; user-planned SFX layer (whooshes on whips, noise burst on flashes, swell on the reveal, clicks on lockup hits, glitch on the breakup, shimmer on the arrow) | text-single-word-captions-chest, text-key-phrase-stacked-lockup, zoom-open-fast-pullout-blur, zoom-push-hold-release, zoom-cut-in-tight-pull-reveal, graphic-arc-arrow-from-to, graphic-brand-logo-on-name, graphic-logo-card-stack-peel, title-rank-number-pixel-breakup, cut-beat-broll-montage, transition-motion-blur-whip, transition-spin-blur-drop, fx-echo-rgb-trail, graphic-photo-card-flash-burst, transition-glow-flicker-streak, transition-white-flash-cut, card-cta-fade-to-black, sfx-whoosh-soft-transition, sfx-noise-burst-flash, sfx-whoosh-swell-scene-in, sfx-click-graphic-hit, sfx-glitch-data-decode, sfx-shimmer-tone | 2026-10-28 | src-007 |",
+      "label_fa": "معرفی امپرسیو و تاثیرگذار سریع و تهاجمی: شروع با زوم سریع و متن بزرگ پشت سر، زوم نرم روی جمله‌های مهم، لوگوها، مونتاژ ضربی بدون صدای گوینده، پایان با دعوت به اقدام روی صفحه‌ی مشکی، با افکت صوتی روی ترنزیشن‌ها.",
+      "cat": "template",
+      "uses": [
+        "text-single-word-captions-chest",
+        "text-key-phrase-stacked-lockup",
+        "zoom-open-fast-pullout-blur",
+        "zoom-push-hold-release",
+        "zoom-cut-in-tight-pull-reveal",
+        "graphic-arc-arrow-from-to",
+        "graphic-brand-logo-on-name",
+        "graphic-logo-card-stack-peel",
+        "title-rank-number-pixel-breakup",
+        "cut-beat-broll-montage",
+        "transition-motion-blur-whip",
+        "transition-spin-blur-drop",
+        "fx-echo-rgb-trail",
+        "graphic-photo-card-flash-burst",
+        "transition-glow-flicker-streak",
+        "transition-white-flash-cut",
+        "card-cta-fade-to-black",
+        "sfx-whoosh-soft-transition",
+        "sfx-noise-burst-flash",
+        "sfx-whoosh-swell-scene-in",
+        "sfx-click-graphic-hit",
+        "sfx-glitch-data-decode",
+        "sfx-shimmer-tone"
+      ]
+    },
+    {
+      "name": "template-n-steps-normal-speed-full-cards-broll",
+      "kind": "template",
+      "row": "| [template-n-steps-normal-speed-full-cards-broll](skills/template-n-steps-normal-speed-full-cards-broll/SKILL.md) | calm N-steps talking head at normal pace: proof hook, white word cards, serif step labels, tiered small captions, cinematic B-roll, pull-out zooms, one whoosh into the main content, tight phrase joins with a picture change per phrase, warm low-key grade | text-single-word-captions-chest, text-caption-emphasis-tiers, text-step-label-serif, graphic-ui-stat-popup, card-white-word-beat, text-flicker-in, transition-blur-bridge, zoom-cut-ease-out, sfx-whoosh-main-start, layout-inset-card-demo, cut-tight-phrase-joins, cut-rhythm-phrase-shots, cut-section-header-beat, grade-warm-lowkey-practicals | 2026-10-21 (updated 2026-10-22) | src-002 |",
+      "label_fa": "آموزش چندمرحله‌ای با سرعت عادی: هوک با مدرک، کارت‌های سفید، برچسب مرحله‌ی سریف، بی‌رول سینمایی، زوم باز شونده و رنگ گرم.",
+      "cat": "template",
+      "uses": [
+        "text-single-word-captions-chest",
+        "text-caption-emphasis-tiers",
+        "text-step-label-serif",
+        "graphic-ui-stat-popup",
+        "card-white-word-beat",
+        "text-flicker-in",
+        "transition-blur-bridge",
+        "zoom-cut-ease-out",
+        "sfx-whoosh-main-start",
+        "layout-inset-card-demo",
+        "cut-tight-phrase-joins",
+        "cut-rhythm-phrase-shots",
+        "cut-section-header-beat",
+        "grade-warm-lowkey-practicals"
+      ]
+    },
+    {
+      "name": "template-podcast-clip-kinetic-type-red-cards",
+      "kind": "template",
+      "row": "| [template-podcast-clip-kinetic-type-red-cards](skills/template-podcast-clip-kinetic-type-red-cards/SKILL.md) | podcast/interview clip as a designed quote: kinetic stacked captions in negative space, white poster cards with one huge red keyword, scale-through + whip, listener reaction, music bed, fade to black | text-kinetic-stack-mixed-size, text-phrase-build-blur-rise, card-white-kinetic-lockup, transition-word-scale-through, transition-whip-pan, cut-listener-reaction-insert, transition-fade-to-black, sfx-keyboard-typing-captions, sfx-whoosh-soft-transition | 2026-10-22 (updated 2026-10-24) | src-003 |",
+      "label_fa": "کلیپ پادکست مثل یک نقل‌قول طراحی‌شده: زیرنویس پله‌ای در فضای خالی، کارت سفید با کلمه‌ی قرمز بزرگ، واکنش شنونده و فید به سیاه.",
+      "cat": "template",
+      "uses": [
+        "text-kinetic-stack-mixed-size",
+        "text-phrase-build-blur-rise",
+        "card-white-kinetic-lockup",
+        "transition-word-scale-through",
+        "transition-whip-pan",
+        "cut-listener-reaction-insert",
+        "transition-fade-to-black",
+        "sfx-keyboard-typing-captions",
+        "sfx-whoosh-soft-transition"
+      ]
+    },
+    {
+      "name": "template-podcast-engaging-text-titles",
+      "kind": "template",
+      "row": "| [template-podcast-engaging-text-titles](skills/template-podcast-engaging-text-titles/SKILL.md) | podcast/interview clip with engaging text and titles: film-burn cold open + typographic lockup on the wide, long slowly creeping guest shots, phrase captions with one big italic serif key word per sentence in the main colour with a neon glow, glitch-decode lower thirds for name and CTA, quiet bed, closing lockup; works on dark and bright footage | cut-multicam-podcast-bookends, transition-film-burn-open, sfx-burn-hit-open, zoom-open-settle-out, zoom-slow-creep-every-shot, text-phrase-build-glow-pop, text-neon-serif-keyword, text-spaced-words-neon-lockup, graphic-lower-third-glitch-decode, sfx-glitch-data-decode, grade-cool-lowkey-spotlight | 2026-10-25 | src-006 |",
+      "label_fa": "پادکست با متن و تیترهای جذاب: شروع با سوختگی فیلم و تیتر روی شات باز، زیرنویس با کلمه‌ی کلیدی رنگی بزرگ، کارت اسم گلیچی، زوم آرام؛ برای ویدیوی تاریک و روشن.",
+      "cat": "template",
+      "uses": [
+        "cut-multicam-podcast-bookends",
+        "transition-film-burn-open",
+        "sfx-burn-hit-open",
+        "zoom-open-settle-out",
+        "zoom-slow-creep-every-shot",
+        "text-phrase-build-glow-pop",
+        "text-neon-serif-keyword",
+        "text-spaced-words-neon-lockup",
+        "graphic-lower-third-glitch-decode",
+        "sfx-glitch-data-decode",
+        "grade-cool-lowkey-spotlight"
+      ]
+    },
+    {
+      "name": "template-presenter-intro-outro-soft-captions",
+      "kind": "template",
+      "row": "| [template-presenter-intro-outro-soft-captions](skills/template-presenter-intro-outro-soft-captions/SKILL.md) | friendly presenter intro/outro: push-in + giant hook word behind the head, soft phrase captions, icon, keyword backdrop, neon payoff word with negative/light-leak flash, whip out; voice only | zoom-push-in-overshoot, title-word-behind-subject-rise, text-phrase-build-blur-rise, graphic-emoji-icon-under-caption, text-keyword-blur-backdrop, text-neon-glow-word, transition-negative-flash, transition-light-leak-flash, transition-whip-pan, sfx-whoosh-soft-transition, sfx-noise-burst-flash | 2026-10-22 (updated 2026-10-24) | src-003 |",
+      "label_fa": "اینترو و اوتروی صمیمی: پوش‌این، کلمه‌ی بزرگ پشت سر، زیرنویس نرم، آیکون، کلمه‌ی نئونی با فلش و ویپ برای خروج.",
+      "cat": "template",
+      "uses": [
+        "zoom-push-in-overshoot",
+        "title-word-behind-subject-rise",
+        "text-phrase-build-blur-rise",
+        "graphic-emoji-icon-under-caption",
+        "text-keyword-blur-backdrop",
+        "text-neon-glow-word",
+        "transition-negative-flash",
+        "transition-light-leak-flash",
+        "transition-whip-pan",
+        "sfx-whoosh-soft-transition",
+        "sfx-noise-burst-flash"
+      ]
+    },
+    {
+      "name": "template-use-this-big-titles-item-images",
+      "kind": "template",
+      "row": "| [template-use-this-big-titles-item-images](skills/template-use-this-big-titles-item-images/SKILL.md) | calm \"use this\" recommendation reel: poster headline (small row over huge condensed caps), a picture of each named item above the head on its cut, tiny chest captions, typed \"comment the word\" CTA; quiet music, no SFX | title-small-row-over-condensed-caps, text-single-word-captions-chest, graphic-topic-images-above-head, text-cta-typewriter-cursor | 2026-10-24 | src-004 |",
+      "label_fa": "ریل آرام «از این استفاده کن»: تیتر پوستری، عکس هر موردی که نام برده می‌شود بالای سر، زیرنویس کوچک و CTA تایپی.",
+      "cat": "template",
+      "uses": [
+        "title-small-row-over-condensed-caps",
+        "text-single-word-captions-chest",
+        "graphic-topic-images-above-head",
+        "text-cta-typewriter-cursor"
+      ]
+    },
+    {
+      "name": "template-whiteboard-method-explainer",
+      "kind": "template",
+      "row": "| [template-whiteboard-method-explainer](skills/template-whiteboard-method-explainer/SKILL.md) | whiteboard-style method explainer: speaker in a rounded card at the bottom, the method built live on a light gridded canvas above (word-by-word black headlines, arc step headers, mind maps, assembling grids, phone proof scenes with hand-drawn marks), full-screen asides with caps keywords; quiet bed, soft clicks, whoosh swells, rare shimmer | layout-split-canvas-speaker-card, text-canvas-headline-build, text-caption-pill-grey, text-single-word-captions-chest, text-caps-keyword-stack, text-caption-emphasis-tiers, text-countdown-on-canvas, graphic-step-header-arc-number, graphic-mindmap-branch-build, graphic-scatter-assemble, transition-board-rotate-reveal, graphic-phone-mockup-feed, graphic-hand-drawn-annotation, text-serif-sans-mixed-line, graphic-emoji-icon-under-caption, sfx-click-graphic-hit, sfx-whoosh-swell-scene-in, sfx-shimmer-tone, sfx-keyboard-typing-captions | 2026-10-25 | src-005 |",
+      "label_fa": "آموزش روش به سبک وایت‌برد: گوینده در کارت پایین، روش روی صفحه‌ی روشن بالا ساخته می‌شود؛ تیتر مرحله روی قوس، نقشه‌ی ذهنی، صحنه‌ی گوشی با دایره‌ی قرمز، کلیک و ووش نرم.",
+      "cat": "template",
+      "uses": [
+        "layout-split-canvas-speaker-card",
+        "text-canvas-headline-build",
+        "text-caption-pill-grey",
+        "text-single-word-captions-chest",
+        "text-caps-keyword-stack",
+        "text-caption-emphasis-tiers",
+        "text-countdown-on-canvas",
+        "graphic-step-header-arc-number",
+        "graphic-mindmap-branch-build",
+        "graphic-scatter-assemble",
+        "transition-board-rotate-reveal",
+        "graphic-phone-mockup-feed",
+        "graphic-hand-drawn-annotation",
+        "text-serif-sans-mixed-line",
+        "graphic-emoji-icon-under-caption",
+        "sfx-click-graphic-hit",
+        "sfx-whoosh-swell-scene-in",
+        "sfx-shimmer-tone",
+        "sfx-keyboard-typing-captions"
+      ]
+    }
+  ],
+  "categories": {
+    "card": {
+      "row": "| card | Full-screen cards that replace the picture (chapter, section, part cards) |",
+      "label_fa": "کارت"
+    },
+    "cut": {
+      "row": "| cut | Rough cut: where cuts land, pause removal, shot length and rhythm |",
+      "label_fa": "کات"
+    },
+    "fx": {
+      "row": "| fx | In-shot visual effects applied to the footage itself (echo trails, colour splits) |",
+      "label_fa": "افکت تصویری"
+    },
+    "grade": {
+      "row": "| grade | Look of the footage: light shape, contrast, colour and temperature |",
+      "label_fa": "رنگ"
+    },
+    "graphic": {
+      "row": "| graphic | Overlaid shapes, icons, meters and boxes drawn on top of the footage |",
+      "label_fa": "گرافیک"
+    },
+    "layout": {
+      "row": "| layout | Changes to how the video itself is framed on screen (inset, split, card views) |",
+      "label_fa": "چیدمان"
+    },
+    "music": {
+      "row": "| music | Music tracks: choosing the section, entry, level, ducking and ending |",
+      "label_fa": "موزیک"
+    },
+    "sfx": {
+      "row": "| sfx | Sound effects placed on edit events |",
+      "label_fa": "افکت صوتی"
+    },
+    "text": {
+      "row": "| text | Captions and on-screen words tied to speech |",
+      "label_fa": "متن"
+    },
+    "title": {
+      "row": "| title | Titles that name the topic, usually at the opening |",
+      "label_fa": "تیتر"
+    },
+    "transition": {
+      "row": "| transition | How one shot changes into the next (beyond a plain cut) |",
+      "label_fa": "ترنزیشن"
+    },
+    "zoom": {
+      "row": "| zoom | Digital scale changes of the picture (punch-ins, pull-outs) |",
+      "label_fa": "زوم"
+    }
+  },
+  "sources": {
+    "src-001": "| src-001 | https://www.instagram.com/reel/DcgVac4o__C/ (file supplied by the user) | Instagram | 2026-10-20 | 47.55 s, 720x1280, 25 fps, audio | 2026-10-20-th-edit-pt2 | card-chapter-title, graphic-flicker-icon, graphic-label-box-blur-in, graphic-level-meter, layout-inset-card-demo, text-single-word-captions, text-single-word-captions-chest, text-word-as-specimen, title-stacked-hook, template-big-words-flat-color-motion | English talking-head tips reel (\"talking head editing techniques, part 2\") |",
+    "src-007": "| src-007 | D:\\AS\\short video workflow\\inbox\\2026-10-28-085549\\AQPssl_h4kaguql8QUsw2e8_jiyLl0JDczZkCmBEyC_XP_bP8b1ZFCubRM_oiGE.mp4 (file supplied by the user) | Instagram (downloaded reel) | 2026-10-28 | 56.89 s, 720x1280, 29.97 fps, audio | 2026-10-28-bellucci-promo | card-cta-fade-to-black, cut-beat-broll-montage, fx-echo-rgb-trail, graphic-arc-arrow-from-to, graphic-brand-logo-on-name, graphic-logo-card-stack-peel, graphic-photo-card-flash-burst, text-key-phrase-stacked-lockup, title-rank-number-pixel-breakup, transition-glow-flicker-streak, transition-motion-blur-whip, transition-spin-blur-drop, transition-white-flash-cut, zoom-cut-in-tight-pull-reveal, zoom-open-fast-pullout-blur, zoom-push-hold-release, template-impressive-intro-fast-aggressive | English brand promo for Bellucci Production (production company): walk-and-talk hook, stacked white lockups, push-hold-release zooms, voice-free beat-cut B-roll montage, logo stack, CTA end card on black. No separate sound effects found (music only) |",
+    "src-003": "| src-003 | D:\\AS\\sample insta reels\\explaining.mp4 (file supplied by the user) | Instagram (sample reel) | 2026-10-22 | 41.64 s, 720x1280, 30 fps, audio | 2026-10-22-explaining, 2026-10-24-explaining-sound | card-white-kinetic-lockup, cut-listener-reaction-insert, graphic-emoji-icon-under-caption, text-keyword-blur-backdrop, text-kinetic-stack-mixed-size, text-neon-glow-word, text-phrase-build-blur-rise, title-word-behind-subject-rise, transition-fade-to-black, transition-light-leak-flash, transition-negative-flash, transition-whip-pan, transition-word-scale-through, zoom-push-in-overshoot, sfx-keyboard-typing-captions, sfx-whoosh-soft-transition, sfx-noise-burst-flash, template-podcast-clip-kinetic-type-red-cards, template-presenter-intro-outro-soft-captions | English editor-showcase reel: presenter intro/outro around an edited podcast clip with kinetic typography |",
+    "src-002": "| src-002 | D:\\AS\\sample insta reels\\3step-fast.mp4 (file supplied by the user) | Instagram (sample reel) | 2026-10-21 | 26.27 s, 720x1280, 30 fps, audio | 2026-10-21-3step-fast, 2026-10-21-3step-fast-roughcut, 2026-10-22-3step-fast-grade | card-white-word-beat, cut-rhythm-phrase-shots, cut-section-header-beat, cut-tight-phrase-joins, grade-warm-lowkey-practicals, graphic-ui-stat-popup, sfx-whoosh-main-start, text-caption-emphasis-tiers, text-flicker-in, text-step-label-serif, transition-blur-bridge, zoom-cut-ease-out, template-n-steps-normal-speed-full-cards-broll | English 3-step talking-head tips reel with cinematic B-roll |",
+    "src-006": "| src-006 | D:\\AS\\short video workflow\\inbox\\2026-10-25-132908\\file_00090.mp4 (file supplied by the user) | Instagram (downloaded reel) | 2026-10-25 | 35.54 s, 720x1280, 23.976 fps, audio | 2026-10-25-kith-podcast | cut-multicam-podcast-bookends, grade-cool-lowkey-spotlight, graphic-lower-third-glitch-decode, sfx-burn-hit-open, sfx-glitch-data-decode, text-neon-serif-keyword, text-phrase-build-glow-pop, text-spaced-words-neon-lockup, transition-film-burn-open, zoom-open-settle-out, zoom-slow-creep-every-shot, template-podcast-engaging-text-titles | English podcast clip (Kith founder on organic marketing), dark studio, red neon serif key words, glitch lower thirds. Extracted SFX in D:\\AS\\SFX\\from-references keep the analysis-ID prefix |",
+    "src-005": "| src-005 | D:\\AS\\short video workflow\\inbox\\2026-10-25-090127\\AQMDWrqPBwLjh4pPX8ki5f0691IGJbh6L7YPPMtJpnf_NjsmMRRaN5Xj8QuNpxtF.mp4 (file supplied by the user) | Instagram (downloaded reel) | 2026-10-25 | 79.53 s, 720x1280, 23.976 fps, audio | 2026-10-25-6by5-method | graphic-hand-drawn-annotation, graphic-mindmap-branch-build, graphic-phone-mockup-feed, graphic-scatter-assemble, graphic-step-header-arc-number, layout-split-canvas-speaker-card, sfx-click-graphic-hit, sfx-shimmer-tone, sfx-whoosh-swell-scene-in, text-canvas-headline-build, text-caps-keyword-stack, text-caption-pill-grey, text-countdown-on-canvas, text-serif-sans-mixed-line, transition-board-rotate-reveal, template-whiteboard-method-explainer | English \"6/5 method\" content-planning explainer: speaker card + motion-graphics canvas. Extracted SFX in D:\\AS\\SFX\\from-references keep the analysis-ID prefix |",
+    "src-004": "| src-004 | D:\\AS\\sample insta reels\\use this\\use this.mp4 (file supplied by the user) | Instagram (sample reel) | 2026-10-24 | 17.13 s, 720x1280, 29.97 fps, audio | 2026-10-24-use-this | title-small-row-over-condensed-caps, graphic-topic-images-above-head, text-cta-typewriter-cursor, template-use-this-big-titles-item-images | \"use these songs\" recommendation reel: headline, category covers above the head, typed comment CTA |",
+    "src-008": "| src-008 | D:\\AS\\short video workflow\\inbox\\2026-11-01-124725\\file_0000.mp4 (file supplied by the user) | Tutorial video (text-animation presets demo) | 2026-11-01 | 19.48 s, 720x1280, 29.97 fps, audio | 2026-11-01-text-motion-presets | text-blur-fade-letters-swell, text-blur-reveal-random-shimmer, text-blur-reveal-words-ping, text-bouncy-reveal-boing, text-flicker-in-letters-ticks, text-slide-left-words-click, text-slide-up-words-click | Seven text-animation presets shown one after another, each with its own sound effect; no voice, no music. No template made (user decision). All seven sounds extracted to D:\\AS\\SFX\\from-references (src-008_*), added to the SFX index; by user decision not compared with existing library sounds |"
+  },
+  "brands": [
+    {
+      "slug": "astroshot",
+      "name": "Astroshot",
+      "row": "| Astroshot | [astroshot/](astroshot/BRAND.md) |"
+    }
+  ],
+  "basics": null,
+  "sfx": {
+    "sounds": 1,
+    "bytes": 9093
+  },
+  "special": [
+    {
+      "name": "broll-adder",
+      "fa": "پیدا کردن و اضافه کردن بی‌رول برای ویدیو: اول گزینه‌ها (همیشه همراه با کلیپ‌های یوتیوب) رو نشون می‌ده، بعد دانلود و جاگذاری می‌کنه. «اتومات» = خودش تصمیم می‌گیره.",
+      "en": "Finds and adds B-roll to the video: first shows the options (always including YouTube clips), then downloads and places them. \"Auto\" = it decides on its own.",
+      "folder": "special-skills/broll-adder"
+    }
+  ]
+}
